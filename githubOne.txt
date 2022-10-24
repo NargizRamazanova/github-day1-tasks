@@ -3,9 +3,9 @@ Task 1:
 		1. Create repository
 
 	Using gitbash
-		1. Create two folders
-		2. In folder one create index.txt file, in folder two create index.html file
-		3. Push those folders to github (git init, git add, git commit, git branch, remote add origin, git push)
+		1. Create two folders: Class and Library
+		2. In folder Class create homework.txt file and one folder students, in folder two create shelves.html file and folder books. In folder books create 		harryPotter.txt file.
+		3. Push those folders to github (git init, git add, git commit, git branch, git remote add origin, git push)
 
 	In repository
 		1. Make changes to your files
