@@ -1,0 +1,14 @@
+Task 1: 
+	In github
+		1. Create repository
+
+	Using gitbash
+		1. Create two folders
+		2. In folder one create index.txt file, in folder two create index.html file
+		3. Push those folders to github (git init, git add, git commit, git branch, remote add origin, git push)
+
+	In repository
+		1. Make changes to your files
+		2. git pull your repository
+
+	Get your classmate's repository and clone his project.
