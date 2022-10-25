@@ -1,0 +1,77 @@
+Task 1: 
+	
+	Lokalda bir folder yarat
+	folderin içində test.txt file yarat
+	test.txt file-in içine "Hello World!" yaz
+	GitHub-da repository yarat
+	Folder-i repository-e yukle.
+
+Task 2:
+
+	Bir folder yarat
+	Folderin icinde One ve Two folderleri yarat
+	Her folderin icinde .txt file yarat
+	.txt file-larin icine metn yaz
+	Iki repository yarat : One ve Two
+	One folderini One repository-e yukle, 
+	Two folderini Two repository-e
+	Folder One-da .txt file-in adini deyish
+	Folder Two-da .txt file-ini sil
+	Deyishilikleri yeniden repository-e elave ele
+
+Task 3: 
+	In github
+		1. Create two repositories
+
+	Using gitbash
+		1. Create two folders: Class and Library
+		2. In folder Class create homework.txt file and one folder students, 
+		in folder Library create shelves.html file and folder books. 
+		In folder books create harryPotter.txt file.
+		3. Push those folders to github 
+		(git init, git add, git commit, git branch, git remote add origin, git push)
+
+	In repository
+		1. Make changes to your files
+		2. git pull your repository
+
+	Get your classmate's repository and clone his project.
+
+	Remove harryPotter.txt file. Remove Class folder from this project (using rm -r).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
