@@ -75,3 +75,4 @@ Task 3:
 		Push changes to your own branch
 		Merge your branch
 		Pull final version of the project (when all team members merged their changes)
+		git log
