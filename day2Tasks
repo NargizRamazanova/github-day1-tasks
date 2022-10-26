@@ -1,0 +1,76 @@
+
+
+Task 1: 
+	Create folder Books
+	Create file one.txt in Books
+	Create public repository with default branch 'main'
+	Push Books to your repository 
+	Create file two.txt
+	Create branch second
+	Push files one.txt and two.txt to second branch
+	Merge second branch to main
+	Delete second branch
+	Pull changes to your local
+
+Task 2: 
+	(group work)
+	
+	Person 1: Create folder One
+		  Create test.txt file in folder One
+		  Create private repository
+		  Add your partner as Collaborator
+		  Push your folder to repository
+
+	Person 2: Accept invitation	
+		  Clone folder
+		  Create branch with your name and switch to it
+		  Add some text to test.txt
+		  Push your changes to your branch
+		  Merge your branch to main
+		  git log
+
+	Person 1: git pull changes from main
+		  git log
+
+	(switch roles)
+
+
+Task 3:
+	(team work: 4 people)
+
+	Person 1:
+		Create folder One
+		Create .txt file in the folder
+		Create Private repository
+		Add Collaborators
+		Push folder to the repository
+
+	Person 2, 3, 4:
+		Clone the repository
+		Create branch with your name
+	
+	Person 2:
+		
+		Create folder Two in One
+		Create .html file in folder Two
+		Push changes to the branch
+		Merge branch
+
+	Person 3:
+		Create style.css file in folder One
+		Add text to the style.css
+		Push changes to the branch
+		Merge branch
+
+	Person 4:
+		Create text.txt file 
+		Add text to the text.txt file
+		Push changes to the branch
+		Merge branch
+	
+	Person 1, 2, 3, 4:
+		Pull main branch
+		Make changes to the files of your team mates (1 - 2, 2 - 3, 3 - 4, 4 - 1)
+		Push changes to your own branch
+		Merge your branch
+		Pull final version of the project (when all team members merged their changes)
